@@ -14,6 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - Lacus sed turpis tincidunt id aliquet risus feugiat.
 - Sodales ut eu sem integer vitae justo eget magna.
-- Magna eget est lorem ipsum dolor sit amet consectetur adipiscing
+- Magna eget est lorem ipsum dolor sit amet consedctetur adipiscing
    - Sodales ut eu sem integer vitae justo eget magna.
    - Sodales ut eu sem integer vitae justo eget magna.
